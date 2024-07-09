@@ -1,0 +1,1 @@
+web: cd mnglassandmirror && npm start
